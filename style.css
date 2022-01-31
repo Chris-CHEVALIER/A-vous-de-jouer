@@ -1,0 +1,73 @@
+body {
+    background-color: slategray;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: auto;
+    width: 90%;
+    margin-bottom: 3%;
+}
+
+a {
+    color: lightskyblue;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.lorem-ipsum {
+    display: flex;
+    width: 520px;
+    margin: auto;
+}
+
+.table-bloc {
+    background-color: antiquewhite;
+    padding: 3%;
+}
+
+table {
+    width: 80%;
+    margin: auto;
+    background-color: navy;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+table, tr, td {
+    text-align: center;
+}
+
+th {
+    color: lightseagreen;
+}
+
+td {
+    color: whitesmoke;
+}
+
+.contact {
+    display: flex;
+}
+
+.phone-icon {
+    margin: 8px;
+}
+
+.p1 {
+    border: 3px solid lightskyblue;
+    border-radius: 16px;
+    padding: 20px;
+}
+
+.bold-lorem {
+    color: orange;
+}
+
+.material-icons {
+    color: whitesmoke;
+    font-size: 42px !important;
+    position: fixed;
+    bottom: 3%;
+    right: 3%;
+}
